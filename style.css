@@ -1,0 +1,14 @@
+#graph .item{
+    margin: 2px;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    padding: 3px;
+    border-radius: 3px;
+    background-color: #00508C;
+    box-shadow: 0 0 1px #2280AC;
+}
+#graph.vertical .item{
+    width: 20px;
+    float: left;
+    display: inline-block;
+}
